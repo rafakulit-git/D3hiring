@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\d3hiring\\d3hiring.csproj": {}
+    "C:\\Users\\victor.jay.bautista\\source\\repos\\D3hiring\\src\\d3hiring.csproj": {}
   },
   "projects": {
-    "C:\\Source\\d3hiring\\d3hiring.csproj": {
+    "C:\\Users\\victor.jay.bautista\\source\\repos\\D3hiring\\src\\d3hiring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\d3hiring\\d3hiring.csproj",
+        "projectUniqueName": "C:\\Users\\victor.jay.bautista\\source\\repos\\D3hiring\\src\\d3hiring.csproj",
         "projectName": "d3hiring",
-        "projectPath": "C:\\Source\\d3hiring\\d3hiring.csproj",
+        "projectPath": "C:\\Users\\victor.jay.bautista\\source\\repos\\D3hiring\\src\\d3hiring.csproj",
         "packagesPath": "C:\\Users\\victor.jay.bautista\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\d3hiring\\obj\\",
+        "outputPath": "C:\\Users\\victor.jay.bautista\\source\\repos\\D3hiring\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.jay.bautista\\AppData\\Roaming\\NuGet\\NuGet.Config",
